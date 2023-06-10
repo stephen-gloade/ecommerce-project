@@ -1,6 +1,6 @@
 # Wearables E-Commerce Project
 
-This repository contains the source code for a web-based e-commerce platform that specializes in wearable technology. This project was built to provide a user-friendly shopping experience for tech enthusiasts. 
+This repository contains the source code for a web-based e-commerce platform that specializes in wearable technology. This project was built to provide a user-friendly shopping experience for tech enthusiasts. It was not built to be responsive as it was not part of the project requirements.
 
 ## Project Overview
 
